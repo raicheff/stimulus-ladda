@@ -1,0 +1,23 @@
+{
+  "name": "stimulus-ladda",
+  "version": "0.1.0",
+  "description": "Stimulus-Ladda",
+  "main": "stimulus-ladda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raicheff/stimulus-ladda.git"
+  },
+  "keywords": [
+    "stimulus",
+    "ladda"
+  ],
+  "author": "Boris Raicheff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raicheff/stimulus-ladda/issues"
+  },
+  "homepage": "https://github.com/raicheff/stimulus-ladda#readme"
+}
